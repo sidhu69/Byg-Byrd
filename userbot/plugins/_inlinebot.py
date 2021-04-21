@@ -2,11 +2,13 @@
 
 
 
-Waaah Bc Waaah 
+BC HO AAP BC
 
-Aao ye bhi loot lo bhosdiwalo..
+BC MATLAB BHEHN CHOD HO AAP
 
-Yahi karo bes tum 😒😒😒😒😒
+LUUUUT LEEE BETICHOD
+
+YAHI KRO BHEHN K LODO 😒😒😒😒😒
 
 
 
@@ -14,9 +16,9 @@ Yahi karo bes tum 😒😒😒😒😒
 
 
 
-delete kr diya h _inline
+DELETE KAR DIA HAI _inline
 
-      usko alag se install krna padta h beta
+      AREE AREEE BETAAAA USKO NAA ALAGH SEE INSTALL KRNA PADTA HAI
 
        😎😎😎😎😎
 
@@ -29,7 +31,7 @@ delete kr diya h _inline
 
 #getlost
 
-#TEAM DC
+#TEAM BB
 
 #special plugin for Kangers..
 
