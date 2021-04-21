@@ -1,7 +1,7 @@
 {
   "name": "𝔹ℝ𝔻",
   "description": "TG KYA HAI KIU HAI YE TO NHI JATA PAR BOHT ACHA LAGTA YAHA REHKAR AND Y BOT MAINE APNE FRIENDS AND KHUD K LIYE BAYA MAJE LENE K LIYE ",
-  "logo": "https://telegra.ph/file/00f47c54ceda3944dc47c.jpg ",
+  "logo": "https://telegra.ph/file/5bc5130bfad2ff047a410.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -10,8 +10,8 @@
     "productivity"
   ],
   "repository": "github.com/sidhu69/RDX/",
-  "website": "https://github.com/DARK-COBRA/DARKCOBRA/",
-  "success_url": "https://t.me/Dark_cobra_support",
+  "website": "https://github.com/sidhu169/RDX/",
+  "success_url": "https://t.me/Byg_Byrd_Support",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -29,7 +29,7 @@
     },
 
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @hellboi_atul.",
+      "description": "Fill your Full name or Username like @AJ_FS.",
       "value": "",
       "required": true
     },
@@ -45,7 +45,7 @@
     },
     "ALIVE_PHOTTO": {
       "description": "Let it be what it is(skip)..or you can change the link according to your convince..this link is useful for `.awake` command.",
-      "value": "https://telegra.ph/file/0d0fafe17acca1c51b42d.jpg",
+      "value": "https://telegra.ph/file/5bc5130bfad2ff047a410.jpg",
       "required": true
     },
     "DEFAULT_BIO": {
@@ -55,7 +55,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "https://telegra.ph/file/ad8430d78a8e1adb3d8ea.jpg",
+      "value": "https://telegra.ph/file/5bc5130bfad2ff047a410.jpg",
       "required": true
     },
     "PM_PERMIT_GROUP_ID": {
@@ -118,7 +118,7 @@
        "value": ""
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://darkcobra.crazycreatorr.repl.run/ ",
+      "description": "Get this value by running https://replit.com/@FIREBOY1/BYGBYRD#main.py/ ",
       "value": "",
       "required": true
     },
@@ -185,11 +185,7 @@
       "description": "Set The Amount Of Rows You Want To Displayed In Help Command default 2",
       "value": "2",
       "required": true
-    },
-    "EMOJI_TO_DISPLAY_IN_HELP": {
-      "description": "Set The emojies You Want to Add In Help Command You Can Add Multiple Emojies too!!",
-      "value": "📨",
-      "required": true
+    
     },
     "SUDO_USERS": {
       "description": "Put The Id of that person whom u want to give access to use ur bot",
