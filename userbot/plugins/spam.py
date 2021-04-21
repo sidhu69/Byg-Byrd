@@ -1,4 +1,4 @@
-# By dark cobra for Dark cobra with logger support
+# By dark cobra for Byg Byrd with logger support
 # Kang with credits..
 
 import asyncio
