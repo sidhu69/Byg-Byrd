@@ -1,4 +1,11 @@
-<h1 align="center">⚡ 𓂀 𝐵𝒴𝒢 𝐵𝒴𝑅𝒟 𓂀 ⚡</h1>
+<h1 align="center">⚡ 𓂀   ______     _______   ______     _______  _____  
+ |  _ \ \   / / ____| |  _ \ \   / /  __ \|  __ \ 
+ | |_) \ \_/ / |  __  | |_) \ \_/ /| |__) | |  | |
+ |  _ < \   /| | |_ | |  _ < \   / |  _  /| |  | |
+ | |_) | | | | |__| | | |_) | | |  | | \ \| |__| |
+ |____/  |_|  \_____| |____/  |_|  |_|  \_\_____/ 
+                                                  
+                                                   𓂀 ⚡</h1>
 <div style="background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 400px; margin-bottom: 160px;">
 𝕋ℍ𝔼 𝔹𝕐𝔾 𝔹𝕐ℝ𝔻 𝕌𝕊𝔼ℝ𝔹𝕆𝕋</div>
 <div style="background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 160px; margin-bottom: 160px;">
