@@ -12,7 +12,7 @@ APP_ID = int(input("Enter APP ID here: "))
 API_HASH = input("Enter API HASH here: ")
 with TelegramClient(StringSession(), APP_ID, API_HASH) as hehe:
 	dcsession = hehe.session.save()
-	dcobra = hehe.send_message(
+	BBYRD = hehe.send_message(
 	    "me",
 	    f"`{dcsession}`\n\n**Apki BygByrd ki String Session yaha hai sir ji Sir😁😎😎\nClick on above Code to Copy it\n\nFor Support Join** @BygBrd_userbot_Support"
 	)
