@@ -30,8 +30,8 @@ async def get_readable_time(seconds: int) -> str:
     return up_time
 
 
-async def darkmusic(dark , QUALITY):
-  search = dark
+async def BYRDmusic(dark , QUALITY):
+  search = BYRD
   headers = {'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'}
   html = requests.get('https://www.youtube.com/results?search_query='+search, headers=headers).text
   soup = BeautifulSoup(html, 'html.parser')
