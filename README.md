@@ -1,6 +1,4 @@
-<div dir="ltr" style="text-align: left;" trbidi="on">
-<h3 style="background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 100.25em; line-height: 100.25; margin-bottom: 500px; margin-top: 10px !important;">
-𓆩ɃɎ₲ ɃɎꞦĐ𓆪  </h3>
+<h1 align="center">⚡ 𓂀 𝐵𝒴𝒢 𝐵𝒴𝑅𝒟 𓂀 ⚡</h1>
 <div style="background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 400px; margin-bottom: 160px;">
 𝕋ℍ𝔼 𝔹𝕐𝔾 𝔹𝕐ℝ𝔻 𝕌𝕊𝔼ℝ𝔹𝕆𝕋</div>
 <div style="background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 160px; margin-bottom: 160px;">
