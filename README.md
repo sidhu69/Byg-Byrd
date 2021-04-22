@@ -6,7 +6,7 @@
 <h1 style="border-bottom: 1px solid rgb(234, 236, 239); box-sizing: border-box; line-height: 1.25; margin: 24px 0px 16px; padding-bottom: 0.3em;">
 <a aria-hidden="true" class="anchor" href="
                                            #jarvis" id="user-content-jarvis" style="background-color: initial; box-sizing: border-box; color: #0366d6; float: left; line-height: 1; margin-left: -50px; padding-right: 10px; text-decoration-line: none;"><svg aria-hidden="true" class="octicon octicon-link" height="50" version="1.1" viewbox="0 0 16 16" width="60"><path d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"
-                                           <h5>This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.</h5>
+<h5>ᵗʰⁱˢ ⁱˢ ᵃ ᵘˢᵉʳᵇᵒᵗ ᵐᵃᵈᵉ ᶠᵒʳ ᵗᵉˡᵉᵍʳᵃᵐ. ⁱ ᵐᵃᵈᵉ ᵗʰⁱˢ ᵘˢᵉʳᵇᵒᵗ ʷⁱᵗʰ ʰᵉˡᵖ ᵒᶠ ᵃˡˡ ᵒᵗʰᵉʳ ᵘˢᵉʳᵇᵒᵗˢ ᵃᵛᵃⁱˡᵃᵇˡᵉ ⁱⁿ ᵗᵉˡᵉᵍʳᵃᵐ. ᵃˡˡ ᶜʳᵉᵈⁱᵗˢ ᵍᵒᵉˢ ᵗᵒ ⁱᵗˢ ʳᵉˢᵖᵉᶜᵗⁱᵛᵉ ᵒʷⁿᵉʳˢ.</h5>
 <div class="separator" style="clear: both; text-align: center;">
 <a href=""https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/softbank/172/fire_1f525.gif" width="1000" /></a></div>
 <a href="https://telegra.ph/file/5bc5130bfad2ff047a410.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="500" data-original-width="1000" height="500" src="https://telegra.ph/file/5bc5130bfad2ff047a410.jpg" width="1000" /></a></div>
