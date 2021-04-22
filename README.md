@@ -6,10 +6,10 @@
 <div class="separator" style="clear: both; text-align: center;">
   
   
-<a href="https://telegra.ph/file/5bc5130bfad2ff047a410.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="500" data-original-width="600" height="400" src="https://telegra.ph/file/5bc5130bfad2ff047a410.jpg" width="600" /></a></div>
+<h1 align="center"> <a href="https://telegra.ph/file/5bc5130bfad2ff047a410.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="500" data-original-width="600" height="400" src="https://telegra.ph/file/5bc5130bfad2ff047a410.jpg" width="600" /></a></div>
 
 </a></div>
-            𝕋ℍ𝔼 𝔹𝕐𝔾 𝔹𝕐ℝ𝔻 𝕌𝕊𝔼ℝ𝔹𝕆𝕋</h1>
+ <h1 align="center"> 𝕋ℍ𝔼 𝔹𝕐𝔾 𝔹𝕐ℝ𝔻 𝕌𝕊𝔼ℝ𝔹𝕆𝕋</h1>
 ###𝕺𝖜𝖓𝖊𝖗 𝖔𝖋 𝖙𝖍𝖊 𝕭𝖞𝖌𝕭𝖞𝖗𝖉 𝖚𝖘𝖊𝖗𝖇𝖔𝖙 𝖜𝖔𝖚𝖑𝖉 𝖓𝖔𝖙 𝖇𝖊 𝖗𝖊𝖘𝖕𝖔𝖓𝖘𝖎𝖇𝖑𝖊 𝖋𝖔𝖗 𝖆𝖓𝖞 𝖐𝖎𝖓𝖉 𝖔𝖋 𝖇𝖆𝖓𝖘 𝖉𝖚𝖊 𝖙𝖔 𝖙𝖍𝖊 𝖇𝖔𝖙...
 <div>
 <br /></div>
