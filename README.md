@@ -11,6 +11,7 @@
 <a href="https://telegra.ph/file/5bc5130bfad2ff047a410.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="500" data-original-width="1000" height="500" src="https://telegra.ph/file/5bc5130bfad2ff047a410.jpg" width="1000" /></a></div>
 <img border="0" data-original-height="650" data-original-width="10" height="10" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/softbank/172/fire_1f525.gif" "https://telegra.ph/file/5bc5130bfad2ff047a410.jpg""https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/softbank/172/fire_1f525.gif" width="1000" /></a></div>
   <h1 align="center">𝕋ℍ𝔼 𝔹𝕐𝔾 𝔹𝕐ℝ𝔻 𝕌𝕊𝔼ℝ𝔹𝕆𝕋</h1>
+                    ### The owner would not be responsible for any kind of bans due to the bot...
 <div>
 <br /></div>
 <div align="center" style="box-sizing: border-box;">
