@@ -12,6 +12,10 @@ ByG ByRd
 </a></div>
  <h1 align="center"> 𝕋ℍ𝔼 𝔹𝕐𝔾 𝔹𝕐ℝ𝔻 𝕌𝕊𝔼ℝ𝔹𝕆𝕋</h1>
 ###𝕺𝖜𝖓𝖊𝖗 𝖔𝖋 𝖙𝖍𝖊 𝕭𝖞𝖌𝕭𝖞𝖗𝖉 𝖚𝖘𝖊𝖗𝖇𝖔𝖙 𝖜𝖔𝖚𝖑𝖉 𝖓𝖔𝖙 𝖇𝖊 𝖗𝖊𝖘𝖕𝖔𝖓𝖘𝖎𝖇𝖑𝖊 𝖋𝖔𝖗 𝖆𝖓𝖞 𝖐𝖎𝖓𝖉 𝖔𝖋 𝖇𝖆𝖓𝖘 𝖉𝖚𝖊 𝖙𝖔 𝖙𝖍𝖊 𝖇𝖔𝖙...
+
+DEPLOY TO HEROKU 
+https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fbygbyrdopuserbot%2Fbygbyrdopuserbot&template=https%3A%2F%2Fgithub.com%2F%2F
+
 <details>
 
 ```
